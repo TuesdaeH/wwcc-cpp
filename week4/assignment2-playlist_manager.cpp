@@ -106,5 +106,5 @@ int main() {
     }
     if (!genreFound) cout << "  No songs found for that genre." << endl;
 
-    return 0;
-}
+
+    

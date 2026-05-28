@@ -47,6 +47,10 @@ void addStudent() {
     cout << "How many grades? (max 5): ";
     cin >> numGrades;
 
+    if(numGrades < 0 || numGrades > 5) {
+        cout << "Invalid number of grades. Must be between 0 and 5." << endl;
+        return;
+    }
     for (int i = 0; i < numGrades && i < 5; i++) {
         cout << "Enter grade " << i + 1 << ": ";
         cin >> s.grades[i];
@@ -113,7 +117,11 @@ int main() {
         cout << "3. Search Student" << endl;
         cout << "4. Quit" << endl;
         cout << "Enter choice: ";
+        cin.clear();
+        cin.ignore(1000, '\n');
         cin >> choice;
+
+
 
         switch (choice) {
             case 1:
@@ -136,4 +144,4 @@ int main() {
     return 0;
 }
 // Used switch instead of if/else since we're checking the same variable multiple times, cleaner that way
-// Main function shows the menu, takes user input, and loops until they pick 4 .0000.
+// Main function shows the menu, takes user input, and loops until they pick 4 .0000.0
