@@ -1,0 +1,20 @@
+=== GAME LOG ===
+Player: TUesdae
+> north
+> east
+> west
+> north
+> take antidote
+> north
+> 2479
+> north
+> 2479
+> south
+> east
+> take keycard
+> west
+> north
+> north
+Code attempt: 2479
+
+Ending: WIN - escaped with antidote

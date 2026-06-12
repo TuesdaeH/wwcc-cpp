@@ -1,0 +1,14 @@
+QUARANTINE_CELL
+You wake up on a cold metal floor. Red emergency lights pulse overhead. A siren wails in the distance. Your head throbs. On the wall someone scratched: DO NOT TRUST THE PA SYSTEM. There is a heavy door to the NORTH and a cracked vent to the EAST.
+
+HALLWAY
+The hallway is chaos. Overturned carts, shattered glass, dark stains on the floor. Something groans around the corner. A sign reads: LAB B - AUTHORIZED ONLY. To the WEST is where you came from. To the NORTH is Lab B. To the EAST is the Security Office.
+
+LAB_B
+Fluorescent lights flicker. Beakers are shattered. A whiteboard reads: ANTIDOTE CODE blank with the last digits scratched out. A dead scientist slumped at a desk clutches a note. To the SOUTH is the hallway. ROOF ACCESS is to the NORTH but the keypad is locked.
+
+SECURITY_OFFICE
+Banks of monitors, most smashed. One still shows camera feeds. Something is moving on level 3. A desk drawer is open. Inside: a keycard and a sticky note with 2-4-7-9. To the WEST is the hallway.
+
+ROOF
+You burst through the roof access door. Fresh air. A helicopter circles overhead. You made it out.
